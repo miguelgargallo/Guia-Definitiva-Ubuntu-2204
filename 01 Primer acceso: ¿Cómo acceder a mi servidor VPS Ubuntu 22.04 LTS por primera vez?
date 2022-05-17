@@ -1,2 +1,6 @@
+01 Primer acceso: ¿Cómo acceder a mi servidor VPS Ubuntu 22.04 LTS por primera vez?
+
+
 Entramos con Git Bash en nuestro ordenador o smartphone y ponemos:
+
 ssh usuario@123.123.123.123
