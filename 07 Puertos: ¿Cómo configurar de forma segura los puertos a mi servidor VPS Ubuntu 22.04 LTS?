@@ -1,0 +1,12 @@
+07 Puertos: ¿Cómo configurar de forma segura los puertos a mi servidor VPS Ubuntu 22.04 LTS?
+
+Paso 1: Ejecutamos estos comandos repetidas veces
+ufw allow http
+ufw allow https
+ufw allow 25472
+
+
+< Lección anterior: 06 Cambiar hostname   |  Lección siguiente: 08 Proteger puerto entrada   >
+< https://bit.ly/3lyoh0u                  |  https:// en proceso                           >
+
+<< Vuelve al Índice: https://bit.ly/3yK3Zcc
