@@ -21,5 +21,14 @@
 - Lección 07 Protger puertos: ¿Cómo configurar de forma segura los puertos a mi servidor VPS Ubuntu 22.04 LTS?
   - https://bit.ly/3sQHoXD
 
+- 08 Proteger puerto entrada: ¿Cómo configurar de forma segura el puerto de entrada a mi servidor VPS Ubuntu 22.04 LTS?
+  - https://bit.ly/3PuESQB
+
+- 09 Añadir ram: ¿Cómo añadir de forma segura más ram a mi servidor VPS Ubuntu 22.04 LTS?
+  - https://bit.ly/3Nukc9i
+
+- 10 Quitar ram: ¿Cómo añadir de forma segura más ram a mi servidor VPS Ubuntu 22.04 LTS?
+  - https://bit.ly/3wJgORl
+
 - Lección 99 Glosario básico: ¿Cómo escribo los comandos básicos en mi servidor VPS Ubuntu 22.04 LTS?
   - https://bit.ly/3LDM49E
