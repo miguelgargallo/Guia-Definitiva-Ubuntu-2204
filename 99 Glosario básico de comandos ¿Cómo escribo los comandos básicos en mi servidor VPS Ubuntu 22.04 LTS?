@@ -28,7 +28,7 @@ Flecha del teclado hacia arriba
 
 Comando MG0007
 Escribir el comando siguiente:
-Seguido del comando Comando MG0004
+Seguido del comando Comando MG0007
 Flecha del teclado hacia abajo
 Disclaimer, Si borras parcialmente o totalmente el comando y ejecutas el comando MG0006 para ver el comando anterior con la felcha hacia arriba, no esperes ver el comando que estabas escribiendo ahora parcialmente o en su totalidad.
 
@@ -38,5 +38,8 @@ Control w
 
 Comando MG0009
 Cortar una porcion o en su totalidad el contenido en el editor nano:
-Control K
+Control k
 
+Comando MG0010
+Cancelar un comando en ejecución
+Control C (a veces has de repetirlo)
