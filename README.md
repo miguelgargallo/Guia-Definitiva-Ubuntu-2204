@@ -1,4 +1,4 @@
-# Configurar-VPS-Ubuntu-22.04-LTS
+# Configurar-Ubuntu-22.04-LTS-Server-VPS
 
 - Lección 01 Primer acceso: ¿Cómo acceder a mi servidor VPS Ubuntu 22.04 LTS por primera vez?
   - https://bit.ly/3Nh8HSH
