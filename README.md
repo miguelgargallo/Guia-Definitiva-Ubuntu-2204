@@ -19,7 +19,7 @@
   - https://bit.ly/3lyoh0u
 
 - Lección 07 Protger puertos: ¿Cómo configurar de forma segura los puertos a mi servidor VPS Ubuntu 22.04 LTS?
-  - https://bit.ly/3sQHoXD
+  - https://bit.ly/3LEGTq2                          
 
 - Lección 08 Proteger puerto entrada: ¿Cómo configurar de forma segura el puerto de entrada a mi servidor VPS Ubuntu 22.04 LTS?
   - https://bit.ly/3PuESQB
