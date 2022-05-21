@@ -21,5 +21,5 @@
 - Lección 07 Protger puertos: ¿Cómo configurar de forma segura los puertos a mi servidor VPS Ubuntu 22.04 LTS?
   - https://bit.ly/3sQHoXD
 
-- Lección 99 Glosario básico
+- Lección 99 Glosario básico: ¿Cómo escribo los comandos básicos en mi servidor VPS Ubuntu 22.04 LTS?
   - https://bit.ly/3LDM49E
