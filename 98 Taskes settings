@@ -1,20 +1,20 @@
 You can choose to install one or more of the following predefined collections of software.  │
-                                                                       │                                                                                             │
-                                                                       │ Choose software to install:                                                                 │
-                                                                       │                                                                                             │
-                                                                       │    [ ] Debian desktop environment                                                           │
-                                                                       │    [*] ... GNOME                                                                            │
-                                                                       │    [ ] ... Xfce                                                                             │
-                                                                       │    [ ] ... GNOME Flashback                                                                  │
-                                                                       │    [ ] ... KDE Plasma                                                                       │
-                                                                       │    [ ] ... Cinnamon                                                                         │
-                                                                       │    [ ] ... MATE                                                                             │
-                                                                       │    [ ] ... LXDE                                                                             │
-                                                                       │    [ ] ... LXQt                                                                             │
-                                                                       │    [*] web server                                                                           │
-                                                                       │    [*] SSH server                                                                           │
-                                                                       │    [ ] laptop                                                                               │
-                                                                       │                                                                                             │
-                                                                       │                                                                                             │
-                                                                       │                          <Ok>                              <Cancel>                         │
-                                                                       │                                                                                             │
+│                                                                                           │
+│ Choose software to install:                                                               │
+│                                                                                           │
+│    [ ] Debian desktop environment                                                         │
+│    [*] ... GNOME                                                                          │
+│    [ ] ... Xfce                                                                           │
+│    [ ] ... GNOME Flashback                                                                │
+│    [ ] ... KDE Plasma                                                                     │
+│    [ ] ... Cinnamon                                                                       │
+│    [ ] ... MATE                                                                           │
+│    [ ] ... LXDE                                                                           │
+│    [ ] ... LXQt                                                                           │
+│    [*] web server                                                                         │
+│    [*] SSH server                                                                         │
+│    [ ] laptop                                                                             │
+│                                                                                           │
+│                                                                                           │
+│                          <Ok>                                                             │
+│                                                                                           │
