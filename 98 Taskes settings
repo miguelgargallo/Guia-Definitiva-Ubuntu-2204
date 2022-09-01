@@ -11,7 +11,7 @@ You can choose to install one or more of the following predefined collections of
 │    [ ] ... MATE                                                                           │
 │    [ ] ... LXDE                                                                           │
 │    [ ] ... LXQt                                                                           │
-│    [*] web server                                                                         │
+│    [ ] web server                                                                         │
 │    [*] SSH server                                                                         │
 │    [ ] laptop                                                                             │
 │                                                                                           │
