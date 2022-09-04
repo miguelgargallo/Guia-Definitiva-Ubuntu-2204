@@ -35,6 +35,6 @@ Lecciones
 
 [11 Instalar Rust](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/11%20Instalar%20Rust:%20%C2%BFC%C3%B3mo%20instalar%20Rust%20de%20forma%20segura%20en%20mi%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ▶️
 
-[99 Glosario](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/99%20Glosario%20b%C3%A1sico%20de%20comandos%20%C2%BFC%C3%B3mo%20escribo%20los%20comandos%20b%C3%A1sicos%20en%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) 💚
+[99 Glosario](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/99%20Glosario%20b%C3%A1sico%20de%20comandos%20%C2%BFC%C3%B3mo%20escribo%20los%20comandos%20b%C3%A1sicos%20en%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ▶️
 
 [98 Taskel Instalación](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/98%20Taskel%20Instalaci%C3%B3n.md) ▶️
