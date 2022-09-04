@@ -3,8 +3,10 @@
 
 Introducimos estos comandos para cambiar las constraseñas en nuestro usuario y en root.
 
-sudo passwd
-sudo passwd root
+    sudo passwd
+
+
+    sudo passwd root
 
 
 < Lección anterior: Acceso por primera vez    |  Lección siguiente: Contraseña root   >
