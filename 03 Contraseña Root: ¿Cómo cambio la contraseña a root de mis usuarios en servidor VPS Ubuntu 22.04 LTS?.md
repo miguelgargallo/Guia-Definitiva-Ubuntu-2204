@@ -1,6 +1,8 @@
 03 Contraseña Root: ¿Cómo cambio la contraseña a root de mis usuarios en servidor VPS Ubuntu 22.04 LTS?
 
-Paso 1: Introducimos estos comando para cambiar la constraseña en nuestro usuario root: sudo passwd root
+Paso 1: Introducimos estos comando para cambiar la constraseña en nuestro usuario root:
+
+    sudo passwd root
 
 
 < Lección anterior: 02 Cambia tu contraseña   |  Lección siguiente: 04 Acceso root   >
