@@ -20,7 +20,7 @@ Y Después
 
 #### 🎉 Recorrido
 
-✅ [01 Primer acceso](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/01%20Primer%20acceso:%20%C2%BFC%C3%B3mo%20acceder%20a%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%20por%20primera%20vez%3F.md) ✅
+[01 Primer acceso](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/01%20Primer%20acceso:%20%C2%BFC%C3%B3mo%20acceder%20a%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%20por%20primera%20vez%3F.md) ✅
 
 [02 Contraseñas](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/02%20Contrase%C3%B1as:%20%C2%BFC%C3%B3mo%20cambio%20las%20contrase%C3%B1as%20de%20mis%20usuarios%20en%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) 💚
 
