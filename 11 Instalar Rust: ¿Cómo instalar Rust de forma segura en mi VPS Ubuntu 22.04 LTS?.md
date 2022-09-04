@@ -1,5 +1,6 @@
 11 Instalar Rust: ¿Cómo instalar Rust de forma segura en mi VPS Ubuntu 22.04 LTS?
 
+
 Paso 1: Actualizamos nuestro servidor
 
     sudo apt update && sudo apt upgrade
