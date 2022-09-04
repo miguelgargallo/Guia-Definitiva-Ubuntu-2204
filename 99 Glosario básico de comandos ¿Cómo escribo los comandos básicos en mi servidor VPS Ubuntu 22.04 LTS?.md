@@ -1,16 +1,19 @@
-99 Glosario básico de comandos ¿Cómo escribo los comandos básicos en mi servidor VPS Ubuntu 22.04 LTS?
+#  Glosario básico de comandos ¿Cómo escribo los comandos básicos en mi servidor VPS Ubuntu 22.04 LTS?
 
 Comando MG0001
 Ejecutar comandos con poderes sudo sin ser root:
-sudo
+
+    sudo
 
 Comando MG0002
 Entrar con el editor nano a un archivo:
-nano /path/miguelgargallo.txt
+
+    nano /path/miguelgargallo.txt
 
 Comando MG0003
 Editar un archivo con el editor nano y poderes de sudo sin ser root:
-sudo nano /path/miguelgargallo.txt
+
+    sudo nano /path/miguelgargallo.txt
 
 Comando MG0004
 Guardar en el editor nano:
