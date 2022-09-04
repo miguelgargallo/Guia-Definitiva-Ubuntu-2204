@@ -1,4 +1,4 @@
-02 Contraseñas: ¿Cómo cambio las contraseñas de mis usuarios en servidor VPS Ubuntu 22.04 LTS?
+# 02 Contraseñas: ¿Cómo cambio las contraseñas de mis usuarios en servidor VPS Ubuntu 22.04 LTS?
 
 
 Introducimos estos comandos para cambiar las constraseñas en nuestro usuario y en root.
