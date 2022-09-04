@@ -5,6 +5,7 @@ Introducimos estos comandos para cambiar las constraseñas en nuestro usuario y 
 
     sudo passwd
 
+Y Después
 
     sudo passwd root
 
