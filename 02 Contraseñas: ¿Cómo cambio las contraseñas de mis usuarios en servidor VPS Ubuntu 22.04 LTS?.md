@@ -8,9 +8,3 @@ Introducimos estos comandos para cambiar las constraseñas en nuestro usuario y 
 Y Después
 
     sudo passwd root
-
-
-< Lección anterior: Acceso por primera vez    |  Lección siguiente: Contraseña root   >
-< https://bit.ly/3Nh8HSH                      |  https://bit.ly/3NpFTaN               >
-
-<< Vuelve al Índice: https://bit.ly/3yK3Zcc
