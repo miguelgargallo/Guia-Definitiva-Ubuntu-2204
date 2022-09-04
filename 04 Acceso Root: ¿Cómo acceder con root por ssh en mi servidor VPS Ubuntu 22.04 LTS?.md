@@ -1,4 +1,4 @@
-04 Acceso Root: ¿Cómo acceder con root por ssh en mi servidor VPS Ubuntu 22.04 LTS?
+# 04 Acceso Root: ¿Cómo acceder con root por ssh en mi servidor VPS Ubuntu 22.04 LTS?
 
 Paso 1: Editamos sshd_config ejecutando
 
