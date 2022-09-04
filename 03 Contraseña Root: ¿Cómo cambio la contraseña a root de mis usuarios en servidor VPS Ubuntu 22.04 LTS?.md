@@ -3,9 +3,3 @@
 Paso 1: Introducimos estos comando para cambiar la constraseña en nuestro usuario root:
 
     sudo passwd root
-
-
-< Lección anterior: 02 Cambia tu contraseña   |  Lección siguiente: 04 Acceso root   >
-< https://bit.ly/3yILUv4                      |  bit.ly/3yNv8Ln                      >
-
-<< Vuelve al Índice: https://bit.ly/3yK3Zcc
