@@ -1,0 +1,13 @@
+# 12.1 Instalar alternativa htop en rust de forma segura en tu vps barato o bare metal con Ubuntu 22.04.1 LTS (Jammy Jellyfish)
+
+Instalamos con Cargo:
+
+    cargo install bottom
+
+Ejecutamos para usar:
+
+    btm
+
+Para salir:
+
+    q
