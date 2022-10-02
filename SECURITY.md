@@ -3,7 +3,7 @@
 ## Versiones soportadas
 
 | Versión | Soportada | |
-| ------- | ------------------ |
+| ------- | ------------------ |:
 | 22.04.1 | :white_check_mark: |
 | 22.04 | :white_check_mark: |
 | 20.04.1 | :x:                |
