@@ -1,21 +1,16 @@
-# Security Policy
+#Política de seguridad
 
-## Supported Versions
+## Versiones soportadas
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
+| Versión | Soportada | |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 22.04.1 | :white_check_mark: |
+| 22.04 | :white_check_mark: |
+| 20.04.1 | :x:                |
+| 18.04.1 | :x:                |
 
-## Reporting a Vulnerability
+## Informar de una vulnerabilidad
 
-Use this section to tell people how to report a vulnerability.
+No hay vulnerabilidades, es una guía.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Todas las actualizaciones de seguridad se verán reflejadas en el incremento de la version 1.0.0.
