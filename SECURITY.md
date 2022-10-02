@@ -12,7 +12,7 @@
 | Name     | Character |
 | ---      | ---       |
 | 22.04.1 | :white_check_mark:         |
-| 22.0.4     | :white_check_mark:|        |
+| 22.0.4     | :white_check_mark:       |
 
 ## Informar de una vulnerabilidad
 
