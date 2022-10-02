@@ -2,18 +2,14 @@
 
 ## Versiones soportadas
 
-| Versión | Soportada | |
-| ------- | ------------------ |:
-| 22.04.1 | :white_check_mark: |
-| 22.04 | :white_check_mark: |
-| 20.04.1 | :x:                |
-| 18.04.1 | :x:                |
-
 | Versión | Soportada |
 | --- | --- |
-| 22.04.1 | :white_check_mark:  |
-| 22.0.4  | :white_check_mark: |
-| 22.0.4  | :white_check_mark: |
+| 22.04.1 LTS | :white_check_mark:  |
+| 22.04 LTS  | :white_check_mark: |
+| 20.04.1 LTS  | :x: |
+| 20.04 LTS  | :x: |
+| 18.04.1 LTS  | :x: |
+| 18.04 LTS  | :x: |
 
 ## Informar de una vulnerabilidad
 
