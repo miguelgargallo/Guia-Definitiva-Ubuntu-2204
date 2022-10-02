@@ -65,17 +65,17 @@ Si te salen los archivos es que está correcto.
 
 [10 Quitar ram](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/10%20Quitar%20ram:%20%C2%BFC%C3%B3mo%20a%C3%B1adir%20de%20forma%20segura%20m%C3%A1s%20ram%20a%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ✅
 
-[11 Instalar Rust](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/11%20Instalar%20Rust:%20%C2%BFC%C3%B3mo%20instalar%20Rust%20de%20forma%20segura%20en%20mi%20VPS%20Ubuntu%2022.04%20LTS%3F.md) 💚
+[11 Instalar Rust](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/11%20Instalar%20Rust:%20%C2%BFC%C3%B3mo%20instalar%20Rust%20de%20forma%20segura%20en%20mi%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ✅vvv
 
-[12 Instalar UFW Firewall](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/12%20Instalar%20ufw%20para%20puertos%20Ubuntu%2022.04-LTS-Server-VPS.md) ▶️
+[12 Instalar UFW Firewall](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/12%20Instalar%20ufw%20para%20puertos%20Ubuntu%2022.04-LTS-Server-VPS.md) ✅
 
-[13 Instalar bottom con rust](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/13%20Instalar%20bottom%20con%20rust%20de%20forma%20segura%20en%20tu%20vps.md) ▶️
+[13 Instalar bottom con rust](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/13%20Instalar%20bottom%20con%20rust%20de%20forma%20segura%20en%20tu%20vps.md) ✅
 
-[14 Instalar Jupyter Server Netbook](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/14%20Instalar%20Jupyter%20Netbook%20de%20forma%20segura%20en%20tu%20vps.md) ▶️
+[14 Instalar Jupyter Server Netbook](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/14%20Instalar%20Jupyter%20Netbook%20de%20forma%20segura%20en%20tu%20vps.md) ✅
 
-[15 Instalar Jupyter Server](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/15%20Instalar%20Jupyter%20Server%20Netbook%20de%20forma%20segura%20en%20tu%20vps.md) ▶️
+[15 Instalar Jupyter Server](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/15%20Instalar%20Jupyter%20Server%20Netbook%20de%20forma%20segura%20en%20tu%20vps.md) ✅
 
-[16 Instalar Certbot Letsencrypt SSL Candado verde](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/16%20Instalar%20Certbot%20LetsEncrypt%20de%20forma%20segura%20en%20tu%20vps.md) ▶️
+[16 Instalar Certbot Letsencrypt SSL Candado verde](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/16%20Instalar%20Certbot%20LetsEncrypt%20de%20forma%20segura%20en%20tu%20vps.md) 💚
 
 [17 Configurar Jupyter Server](https://github.com/miguelgargallo/Configurar-Ubuntu-22.04-LTS-Server-VPS/blob/main/17%20Configurar%20Jupyter%20Server%20Netbook%20de%20forma%20segura%20en%20tu%20vps.md) ▶️
 
