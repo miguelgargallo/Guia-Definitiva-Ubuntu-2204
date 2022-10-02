@@ -53,3 +53,4 @@ Paso 1: Entramos con Git Bash en nuestro ordenador o smartphone y ponemos:
 
 [98 Taskel Instalación](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/98%20Taskel%20Instalaci%C3%B3n.md) ▶️
 
+
