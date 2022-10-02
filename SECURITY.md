@@ -9,11 +9,11 @@
 | 20.04.1 | :x:                |
 | 18.04.1 | :x:                |
 
-| Versión     | Soportada |
-| ---      | ---       |
-| 22.04.1 | :white_check_mark:         |
-| 22.0.4     | :white_check_mark:       |
-| 22.0.4     | :white_check_mark: |
+| Versión | Soportada |
+| --- | --- |
+| 22.04.1 | :white_check_mark:  |
+| 22.0.4  | :white_check_mark: |
+| 22.0.4  | :white_check_mark: |
 
 ## Informar de una vulnerabilidad
 
