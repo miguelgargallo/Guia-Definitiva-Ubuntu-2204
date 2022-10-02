@@ -3,7 +3,7 @@
 ## Versiones soportadas
 
 | Versión | Soportada | Link
-| --- | --- | --- |
+| :--- | :---: | ---: |
 | 22.04.1 LTS | :white_check_mark:  | [Guia Definitiva Ubuntu 2204](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204) |
 | 22.04 LTS | :white_check_mark:  | [Guia Definitiva Ubuntu 2204](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204) |
 | 20.04.1 LTS | :white_check_mark:  | [Cómo configurar tu VPS con Ubuntu 20.04 LTS](https://github.com/miguelgargallo/Configurar-Ubuntu-20.04-LTS-Handshake-spanish-guia-Rithvik-Vibhu) |
