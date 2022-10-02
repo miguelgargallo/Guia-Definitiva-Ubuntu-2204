@@ -2,7 +2,8 @@
 
 <p>Guia Definitiva Ubuntu 2204</p>
 
-![Guia definitica como configurar de forma segura ubuntu 22.04 LTS Server en tu VPS Imagen](https://user-images.githubusercontent.com/5947268/193470721-2d187d06-4827-4159-ace1-66de62a7d520.png)
+<img width="640" alt="guia-definitiva-ubuntu-2204" src="https://user-images.githubusercontent.com/5947268/193471487-b03b2b35-4c5a-49bf-a722-eb352f88c34d.png">
+<a>Guia Definitiva Ubuntu 2204</a>
 
 ### Lecciones
 #### ▶️ Leyenda
