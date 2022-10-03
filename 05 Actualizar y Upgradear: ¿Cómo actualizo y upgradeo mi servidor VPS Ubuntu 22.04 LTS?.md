@@ -1,4 +1,4 @@
-#  Actualizar y Upgradear: ¿Cómo actualizo y upgradeo mi servidor VPS Ubuntu 22.04 LTS?
+#  05 Actualizar y Upgradear: ¿Cómo actualizo y upgradeo mi servidor VPS Ubuntu 22.04 LTS?
 
 Paso 1: Ejecutamos:
 
