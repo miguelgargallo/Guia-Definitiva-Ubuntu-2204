@@ -66,6 +66,8 @@ Notas: Segunda zona # se debe añadir, no tocar lo que haya:
 
 [17 Configurar Jupyter Server](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/17%20Configurar%20Jupyter%20Server%20Netbook%20de%20forma%20segura%20en%20tu%20vps.md) ▶️
 
+[18 Instalar Cualquier version de Node](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/18%20Instalar%20Node%20¿Cómo%20instalar%20cualquier%20versión%20de%20Node%20en%20tu%20VPS%20Ubuntu%202204%20LTS%3F.md) ▶️
+
 [99 Glosario](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/99%20Glosario%20b%C3%A1sico%20de%20comandos%20%C2%BFC%C3%B3mo%20escribo%20los%20comandos%20b%C3%A1sicos%20en%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ▶️
 
 [98 Taskel Instalación](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/98%20Taskel%20Instalaci%C3%B3n.md) ▶️
