@@ -6,7 +6,7 @@ Entramos y ejecutamos:
 
 Instalamos la última versión hasta la fecha, dando click derecho en esta página web:
 
-    [anaconda distribution](https://www.anaconda.com/products/distribution)
+[anaconda distribution](https://www.anaconda.com/products/distribution)
 
 Exactamente click derecho copiar link aquí:
 
