@@ -36,6 +36,14 @@ Ejecutamos:
 
     source ~/.bashrc
 
+Si al terminar no puedes ejecutar
+
+    python3 --help
+
+Instala Python
+
+    sudo apt install python-is-python3
+
 
 ### No te pierdas
 
