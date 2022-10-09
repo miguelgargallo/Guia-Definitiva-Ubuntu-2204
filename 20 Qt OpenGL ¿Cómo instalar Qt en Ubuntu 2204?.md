@@ -12,3 +12,7 @@ Ejecutamos el .run
 
     ./qt-opensource-linux-x64-5.11.3.run
     
+O básicamente
+
+    sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
+
