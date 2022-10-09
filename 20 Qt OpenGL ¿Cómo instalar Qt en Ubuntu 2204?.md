@@ -22,6 +22,6 @@ Si nos faltan headers en C++ añadimos esto en nuestra terminal para que VS Code
 
 Ejecutar nuestro OpenGL con un solo comando
 
-   qmake && make && ./nombreDelEjecutable
+    qmake && make && ./nombreDelEjecutable
    
   
