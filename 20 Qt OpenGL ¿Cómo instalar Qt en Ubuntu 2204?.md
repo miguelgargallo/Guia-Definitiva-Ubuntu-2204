@@ -16,3 +16,12 @@ O básicamente ejecutas esto en vez de todo lo anterior
 
     sudo apt-get install qtbase5-dev qtchooser qt5-qmake qtbase5-dev-tools
 
+Si nos faltan headers en C++ añadimos esto en nuestra terminal para que VS Code lo canalize correctamente
+
+    g++ main.cpp -lGL -lglut -lGLEW -I/path/to/glm/headers
+
+Ejecutar nuestro OpenGL con un solo comando
+
+   qmake && make && ./nombreDelEjecutable
+   
+  
