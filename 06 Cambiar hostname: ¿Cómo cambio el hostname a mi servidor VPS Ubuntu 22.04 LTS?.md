@@ -22,6 +22,19 @@ Notas: Segunda zona # se debe añadir, no tocar lo que haya:
     123.123.123.123 server.visita.teide server
 
 
+## Miguel Gargallo Atlas
+
+Miguel Gargallo Atlas es tu guía! aquí te indico por donde vas de la Guía Definitva Ubuntu 2204, tambien disponible a través del link [ubuntu.download](https://ubuntu.download), en la descripción encontrarás el link para descargar de forma segura Ubuntu desde la web oficial.
+
+### Ir al siguiente capítulo, nueva lección:
+
+[07 Protger puertos](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/07%20Protger%20puertos:%20%C2%BFC%C3%B3mo%20configurar%20de%20forma%20segura%20los%20puertos%20a%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ▶️
+
+### Volver atrás, lección anterior:
+
+[05 Actualizar y Upgradear](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/05%20Actualizar%20y%20Upgradear:%20%C2%BFC%C3%B3mo%20actualizo%20y%20upgradeo%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ✅
+
+
 ### No te pierdas
 
 #### ▶️ Leyenda
@@ -72,9 +85,16 @@ Notas: Segunda zona # se debe añadir, no tocar lo que haya:
 
 [20 Qt OpenGL ¿Cómo instalar Qt en Ubuntu 2204?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/20%20Qt%20OpenGL%20%C2%BFC%C3%B3mo%20instalar%20Qt%20en%20Ubuntu%202204%3F.md) ▶️
 
-[21 Docker Portainer ¿Cómo instalar docker y docker portainer?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/21%20Docker%20Portainer%20%C2%BFC%C3%B3mo%20instalar%20docker%20y%20docker%20portainer%3F) ▶️
+[21 Docker Portainer ¿Cómo instalar docker y docker portainer?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/21%20Docker%20Portainer%20%C2%BFC%C3%B3mo%20instalar%20docker%20y%20docker%20portainer%3F.md) ▶️
 
-[99 Glosario](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/99%20Glosario%20b%C3%A1sico%20de%20comandos%20%C2%BFC%C3%B3mo%20escribo%20los%20comandos%20b%C3%A1sicos%20en%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ▶️
+[97 Alias, atajos para comandos super rapidos?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/97%20Alias%2C%20atajos%20para%20comandos%20super%20rapidos.md) ▶️
 
 [98 Taskel Instalación](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/98%20Taskel%20Instalaci%C3%B3n.md) ▶️
 
+[99 Glosario](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/99%20Glosario%20b%C3%A1sico%20de%20comandos%20%C2%BFC%C3%B3mo%20escribo%20los%20comandos%20b%C3%A1sicos%20en%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ▶️
+
+### Ir al menú, hay llegado al final de la lección, ve al Índice:
+
+[Readme, Índice](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/README.md) ✅
+
+Que te ha parecido la Guía Definitiva Ubuntu 2204
