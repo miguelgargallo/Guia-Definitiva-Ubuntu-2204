@@ -62,3 +62,7 @@
 
 <p>Que te ha parecido la Guia Definitiva Ubuntu 2204</p>
 
+En la guía de Ubuntu 20.04 encontrareis capítulos compatibles en su mayoria con otras secciones.
+
+https://github.com/miguelgargallo/Configurar-Ubuntu-20.04-LTS-Handshake-spanish-guia-Rithvik-Vibhu
+
