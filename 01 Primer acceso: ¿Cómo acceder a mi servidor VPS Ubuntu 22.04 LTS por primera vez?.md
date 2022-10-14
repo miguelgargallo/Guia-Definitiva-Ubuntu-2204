@@ -1,8 +1,12 @@
 # 01 Primer acceso: ¿Cómo acceder a mi servidor VPS Ubuntu 22.04 LTS por primera vez?
 
-Paso 1: Entramos con Git Bash en nuestro ordenador o smartphone y ponemos:
+Paso 1A: Accedemos por ssh ejecutando por git bash:
 
     ssh usuario@123.123.123.123
+
+Paso 1B: Accedemos por ssh a través de un puerto determinado ejecutando por git bash:
+
+    ssh -p 22 usuario@123.123.123.123
 
 
 ### No te pierdas
@@ -55,10 +59,11 @@ Paso 1: Entramos con Git Bash en nuestro ordenador o smartphone y ponemos:
 
 [20 Qt OpenGL ¿Cómo instalar Qt en Ubuntu 2204?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/20%20Qt%20OpenGL%20%C2%BFC%C3%B3mo%20instalar%20Qt%20en%20Ubuntu%202204%3F.md) ▶️
 
-[21 Docker Portainer ¿Cómo instalar docker y docker portainer?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/21%20Docker%20Portainer%20%C2%BFC%C3%B3mo%20instalar%20docker%20y%20docker%20portainer%3F) ▶️
+[21 Docker Portainer ¿Cómo instalar docker y docker portainer?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/21%20Docker%20Portainer%20%C2%BFC%C3%B3mo%20instalar%20docker%20y%20docker%20portainer%3F.md) ▶️
 
-[99 Glosario](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/99%20Glosario%20b%C3%A1sico%20de%20comandos%20%C2%BFC%C3%B3mo%20escribo%20los%20comandos%20b%C3%A1sicos%20en%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ▶️
+[97 Alias, atajos para comandos super rapidos?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/97%20Alias%2C%20atajos%20para%20comando%2C%20super%20y%20rapidos.md) ▶️
 
 [98 Taskel Instalación](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/98%20Taskel%20Instalaci%C3%B3n.md) ▶️
 
+[99 Glosario](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/99%20Glosario%20b%C3%A1sico%20de%20comandos%20%C2%BFC%C3%B3mo%20escribo%20los%20comandos%20b%C3%A1sicos%20en%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ▶️
 

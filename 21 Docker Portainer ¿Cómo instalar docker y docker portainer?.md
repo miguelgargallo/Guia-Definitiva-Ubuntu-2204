@@ -87,7 +87,7 @@ Thanks Chuck! Follow him now!
 
 [20 Qt OpenGL ¿Cómo instalar Qt en Ubuntu 2204?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/20%20Qt%20OpenGL%20%C2%BFC%C3%B3mo%20instalar%20Qt%20en%20Ubuntu%202204%3F.md) ✅
 
-[21 Docker Portainer ¿Cómo instalar docker y docker portainer?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/21%20Docker%20Portainer%20%C2%BFC%C3%B3mo%20instalar%20docker%20y%20docker%20portainer%3F) 💚
+[21 Docker Portainer ¿Cómo instalar docker y docker portainer?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/21%20Docker%20Portainer%20%C2%BFC%C3%B3mo%20instalar%20docker%20y%20docker%20portainer%3F.md) 💚
 
 [99 Glosario](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/99%20Glosario%20b%C3%A1sico%20de%20comandos%20%C2%BFC%C3%B3mo%20escribo%20los%20comandos%20b%C3%A1sicos%20en%20mi%20servidor%20VPS%20Ubuntu%2022.04%20LTS%3F.md) ▶️
 
