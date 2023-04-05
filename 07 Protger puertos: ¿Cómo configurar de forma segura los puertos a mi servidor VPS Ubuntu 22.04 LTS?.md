@@ -11,6 +11,10 @@ Este:
 Y finalmente
 
     ufw allow 25472
+    
+Si lo que queremos es abrir un rango de puertos
+
+    sudo ufw allow 5000:6000/tcp
 
 
 ## Miguel Gargallo Atlas
