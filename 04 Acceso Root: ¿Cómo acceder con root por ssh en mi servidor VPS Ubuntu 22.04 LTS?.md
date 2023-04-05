@@ -36,10 +36,6 @@ Paso 8: Dar privilegios:
 
     usermod -aG sudo NuevoUsuario
 
-Paso 9: escribimos:
-
-    adduser NuevoUsuario
-
 
 ## Miguel Gargallo Atlas
 
