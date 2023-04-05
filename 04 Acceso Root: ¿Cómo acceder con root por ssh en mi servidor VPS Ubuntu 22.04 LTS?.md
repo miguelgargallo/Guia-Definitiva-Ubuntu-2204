@@ -30,6 +30,8 @@ Paso 7: Crear un usuario: (opcional si lo necesitamos)
 
     sudo adduser NuevoUsuario
 
+Sigues los pasos de crear usuarios para poner una contraseña
+
 
 ## Miguel Gargallo Atlas
 
