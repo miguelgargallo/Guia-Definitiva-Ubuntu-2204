@@ -32,6 +32,14 @@ Paso 7: Crear un usuario: (opcional si lo necesitamos)
 
 Sigues los pasos de crear usuarios para poner una contraseña
 
+Paso 8: Dar privilegios:
+
+    usermod -aG sudo NuevoUsuario
+
+Paso 9: escribimos:
+
+    adduser NuevoUsuario
+
 
 ## Miguel Gargallo Atlas
 
