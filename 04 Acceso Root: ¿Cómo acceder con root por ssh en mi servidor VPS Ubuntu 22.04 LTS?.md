@@ -26,6 +26,10 @@ Paso 6:
 
     ssh root@123.123.123.123
 
+Paso 7: Crear un usuario: (opcional si lo necesitamos)
+
+    sudo adduser NuevoUsuario
+
 
 ## Miguel Gargallo Atlas
 
