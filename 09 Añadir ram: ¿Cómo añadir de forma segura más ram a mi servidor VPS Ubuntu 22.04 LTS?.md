@@ -15,7 +15,7 @@ Finalmente:
 
 Paso 2: Editamos con el editor nano:
 
-    /etc/fstab
+    nano /etc/fstab
 
 Comando referenciado en la lección 99 Glosario, link en el pié de la página de esta lección.
 
