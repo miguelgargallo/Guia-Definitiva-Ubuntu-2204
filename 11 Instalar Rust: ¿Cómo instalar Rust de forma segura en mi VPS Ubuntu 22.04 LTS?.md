@@ -12,6 +12,10 @@ Paso 3: Ejecutamos la instalación de Rust
 
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
+Paso 4: Añade el source
+
+    source "$HOME/.cargo/env"
+
 Paso 4: Escojemos opción 1.
 
     1, Presionamos, Enter.
