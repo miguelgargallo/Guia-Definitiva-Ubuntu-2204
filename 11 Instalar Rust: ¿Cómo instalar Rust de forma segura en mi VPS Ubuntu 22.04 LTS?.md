@@ -24,8 +24,6 @@ Paso 5: Verificamos:
 
     source ~/.profile
 
-    source ~/.cargo/env
-
     rustc -V
 
 Finalmente, para la fecha en la que estamos este es el resultado:
