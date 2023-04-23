@@ -24,6 +24,8 @@ Paso 5: Verificamos:
 
     source ~/.profile
 
+Paso 6: Pedimos la version:
+
     rustc -V
 
 Finalmente, para la fecha en la que estamos este es el resultado:
