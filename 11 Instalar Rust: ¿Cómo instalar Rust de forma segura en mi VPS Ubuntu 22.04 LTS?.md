@@ -28,7 +28,7 @@ Paso 5: Verificamos:
 
 Finalmente, para la fecha en la que estamos este es el resultado:
 
-    rustc 1.68.2 (9eb3afe9e 2023-03-27)
+    rustc 1.69.0 (84c898d65 2023-04-16)
 
 
 ## Miguel Gargallo Atlas
