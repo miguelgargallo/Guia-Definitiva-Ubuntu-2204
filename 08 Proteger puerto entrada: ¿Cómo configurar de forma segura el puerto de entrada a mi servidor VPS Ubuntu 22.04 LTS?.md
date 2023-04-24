@@ -12,6 +12,9 @@ por
 
     Port 25472
 
+Reiniciamos el servicio
+
+    sudo service ssh restart
 
 ## Miguel Gargallo Atlas
 
