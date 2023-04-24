@@ -3,7 +3,7 @@
 
 Introducimos estos comandos para cambiar las constraseñas en nuestro usuario y en root.
 
-    sudo passwd
+    sudo passwd UserName
 
 Y Después
 
