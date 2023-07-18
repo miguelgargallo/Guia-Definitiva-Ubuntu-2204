@@ -30,7 +30,7 @@ Paso 6: Pedimos la version:
 
 Finalmente, para la fecha en la que estamos este es el resultado:
 
-    rustc 1.69.0 (84c898d65 2023-04-16)
+    rustc 1.71.0 (8ede3aae2 2023-07-12
 
 
 ## Miguel Gargallo Atlas
