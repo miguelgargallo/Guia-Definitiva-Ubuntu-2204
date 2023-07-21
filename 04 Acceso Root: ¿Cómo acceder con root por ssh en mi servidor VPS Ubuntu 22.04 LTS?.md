@@ -20,7 +20,7 @@ Paso 4: Ejecutamos
 
 Paso 5 ejecutamos para salir:
 
-    Exit
+    exit
 
 Paso 6:
 
