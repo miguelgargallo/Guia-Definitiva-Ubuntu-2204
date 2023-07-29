@@ -43,7 +43,7 @@ Miguel Gargallo Atlas es tu guía! aquí te indico por donde vas de la Guía Def
 
 ### Ir al siguiente capítulo, nueva lección:
 
-[97 Alias, atajos para comandos super rapidos?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/97%20Alias%2C%20atajos%20para%20comandos%20super%20rapidos.md) ▶️
+[96 Customiza nvim necesitas node en tu vps de forma segura.md](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/96%20Customiza%20nvim%20necesitas%20node%20en%20tu%20vps%20de%20forma%20segura.md) ▶️
 
 ### Volver atrás, lección anterior:
 3F.md) ✅
@@ -102,6 +102,8 @@ Miguel Gargallo Atlas es tu guía! aquí te indico por donde vas de la Guía Def
 [20 Qt OpenGL ¿Cómo instalar Qt en Ubuntu 2204?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/20%20Qt%20OpenGL%20%C2%BFC%C3%B3mo%20instalar%20Qt%20en%20Ubuntu%202204%3F.md) ✅
 
 [21 Docker Portainer ¿Cómo instalar docker y docker portainer?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/21%20Docker%20Portainer%20%C2%BFC%C3%B3mo%20instalar%20docker%20y%20docker%20portainer%3F.md) 💚
+
+[96 Customiza nvim necesitas node en tu vps de forma segura.md](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/96%20Customiza%20nvim%20necesitas%20node%20en%20tu%20vps%20de%20forma%20segura.md)
 
 [97 Alias, atajos para comandos super rapidos?](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/blob/main/97%20Alias%2C%20atajos%20para%20comandos%20super%20rapidos.md) ▶️
 
