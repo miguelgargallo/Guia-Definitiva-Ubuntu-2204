@@ -2,6 +2,26 @@
 
 ## Aquí encontrarás la configuración que se preserva en mis máquinas de Ubuntu
 
+Instalamos git
+
+```bash
+sudo apt install git neovim
+```
+
+Seguido de
+
+```bash
+curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
+
+Ejecutamos
+
+```bash
+nvim ~/.config/nvim/init.vim
+```
+
+Y añadimso este paquete de plugins
+
 ```vim
 " Specify a directory for plugins
 call plug#begin('~/.config/nvim/plugged')
