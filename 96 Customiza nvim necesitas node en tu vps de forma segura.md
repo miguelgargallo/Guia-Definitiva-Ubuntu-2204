@@ -51,6 +51,25 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isT
 map <C-n> :NERDTreeToggle<CR>
 ```
 
+Ahora picamos:
+
+```nvim
+:
+```
+
+Seguid de 
+
+```neovim
+PlugInstall
+```
+
+Te quedará algo así
+
+```neovim
+:PlugInstall
+```
+
+Le das a enter y esperas
 
 
 ## Miguel Gargallo Atlas
