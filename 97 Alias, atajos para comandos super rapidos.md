@@ -2,6 +2,10 @@
 
 ## Aquí encontrarás atajos con el comando "alias", para poder ir mas rapido en tus tareas de deploy de proyectos.
 
+*Importante, primero ponemos el alias en la consola, tal cual, luego vamos al archivo con nano y la añadimos:
+
+    nano ~/.bashrc
+
 npm start
 
     alias pns='npm start'
