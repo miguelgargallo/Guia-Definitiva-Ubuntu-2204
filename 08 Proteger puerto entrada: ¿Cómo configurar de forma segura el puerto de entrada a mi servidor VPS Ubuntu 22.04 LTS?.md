@@ -26,6 +26,12 @@ Seguid de: `y` y luego para ver las conexiones
 
     sudo ufw status numbered
 
+Reiniciamos el servicio
+
+    sudo service ssh restart
+
+Ahora, abrimos otra terminal, y ejecutamos el `ssh -p 25472 user@123.123.123.123` para ver si deja entrar por ahí, porque sino te deja, no te austes, revisa los pasos hasta ahora, si cierras esa ventana, podrías no volver a acceder, para ello, en la ventana donde te ha fallado el accoeso ejecuta: `ssh user@123.123.123.123` si te pregunta por la contraseña, significa que el puerto `22` aún está operativo y que posiblemente no has activado bien el `ufw`, revisa todo con calma.
+
 ¿Porqué te enseño esto del `numbered`? Básicamente podrás borrar super rapido o manejar los puertos de forma mas eficiente:
 
     sudo ufw deny 1
