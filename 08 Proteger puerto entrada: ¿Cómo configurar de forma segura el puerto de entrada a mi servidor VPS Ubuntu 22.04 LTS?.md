@@ -1,5 +1,7 @@
 # 08 Proteger puerto entrada: ¿Cómo configurar de forma segura el puerto de entrada a mi servidor VPS Ubuntu 22.04 LTS?
 
+IMPORTANTE: Si al terminar esta clase, sales del servidor y no reinicias, no te preocupes, ve al panel de AWS o del serivicio que tengas contratado, y reinicia de ahí, no te asustes, no has perdido nada.
+
 Paso 1: Entramos en el archivo siguiente y cambiamos lo siguiente
 
     nano /etc/ssh/sshd_config
@@ -44,6 +46,7 @@ añadirmos tcp.
 El protocolo TCP (Transmission Control Protocol) es el encargado de proporcionar un servicio de comunicación punto a punto entre dos host. Este protocolo de cuarto nivel está orientado a conexión en la capa de transporte y funciona a través de la conexión mutua entre cliente y servidor.
 ```
 
+IMPORTANTE: Si sales y no reinicias, no te preocupes, ve al panel de AWS o del serivicio que tengas contratado, y reinicia de ahí, no te asustes, no has perdido nada.
 
 
 ## Miguel Gargallo Atlas
