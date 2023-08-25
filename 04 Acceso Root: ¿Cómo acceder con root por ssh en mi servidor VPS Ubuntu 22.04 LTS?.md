@@ -36,7 +36,7 @@ Sigues los pasos de crear usuarios para poner una contraseña
 
 Paso 8: Dar privilegios:
 
-    usermod -aG sudo NuevoUsuario
+    sudo usermod -aG sudo NuevoUsuario
 
 Paso 9: Acceder siempre a root desde un usuario
 
