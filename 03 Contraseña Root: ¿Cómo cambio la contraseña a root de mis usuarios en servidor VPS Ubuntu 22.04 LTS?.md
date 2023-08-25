@@ -4,6 +4,28 @@ Paso 1: Introducimos estos comando para cambiar la constraseña en nuestro usuar
 
     sudo passwd root
 
+Aviso para navegantes, por si la cagas en algun lado y no puedes entrar en el server y pues, decides reinstalar todo, en tu bash te saldra una liada como esta
+
+```md
+> ssh -p xx user@123.123.123.123
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+...
+Add correct host key in /c/Users/username/.ssh/known_hosts to get rid of this message.
+Offending ECDSA key in /c/Users/username/.ssh/known_hosts:3
+Host key for 123.123.123.123 has changed and you have requested strict checking.
+Host key verification failed.
+```
+
+Ejecuta
+
+    vim /c/Users/username/.ssh/known_hosts
+
+y pues ve a la/las linea/s donde esta tu ip del servidor y presiona la d para borrar 2 veces `dd`
+
+
 
 ## Miguel Gargallo Atlas
 
