@@ -4,7 +4,7 @@ IMPORTANTE: Si al terminar esta clase, sales del servidor y no reinicias, no te 
 
 Paso 1: Entramos en el archivo siguiente y cambiamos lo siguiente
 
-    nano /etc/ssh/sshd_config
+    sudo nano /etc/ssh/sshd_config
 
 Y cambiamos el puerto:
 
