@@ -8,9 +8,13 @@ Paso 2: Vamos a estos dos archivos y cambiamos lo que haya por esta plantilla:
 
     nano /etc/hosts
 
-Este otro archivo:
+*Copia todo en un txt, o en el clipboard 😉
 
-    nano /etc/cloud/templates/hosts.debian.tmpl
+Ejecutaremos nano! (Truco del programador mestizo: no hagas nano, aquí arás `vim` si?)
+
+    vim /etc/cloud/templates/hosts.debian.tmpl
+
+Borraremos todo, con "d", presionar 1 vez de forma larga, `ddddddddddddddddddddddd` no dejes de presionar hasta que desaparezca todo, te vas al archivo donde copiaste todo, o al clipboard, te vas al centro de lapantalla de la terminal, dar click a la ruedecita o botón central, se pagará todo, sino funcionara:  volver a presiona `dddddddd` y le das a `esc` + `ctrl` + `:` + `w` + `:` + `q`, ahora que el archivo está vacío, usamos nano para entrar, pegamos todo de la misma forma, y `ctrl` + `x` y salimos.
 
 Notas: Primera zona # debe quedar así:
 
