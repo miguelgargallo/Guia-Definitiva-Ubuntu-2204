@@ -25,7 +25,7 @@ Ejecuta
 
 y pues ve a la/las linea/s donde esta tu ip del servidor y presiona la d para borrar 2 veces `dd`
 
-Una vez estemos presionamos: `esc` + `ctrl` + `:` + `w` seguido de `esc` + `ctrl` + `:` + `q` para salir y guardar.
+Una vez estemos presionamos: `esc` + `ctrl` + `:` + `w` seguido de `esc` + `ctrl` + `:` + `q` para guardar y salir.
 
 
 
