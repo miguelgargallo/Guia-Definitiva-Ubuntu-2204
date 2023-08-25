@@ -2,7 +2,7 @@
 
 IMPORTANTE: Si al terminar esta clase, sales del servidor y no reinicias, no te preocupes, ve al panel de AWS o del serivicio que tengas contratado, y reinicia de ahí, no te asustes, no has perdido nada.
 
-Paso 1: Entramos en el archivo siguiente y cambiamos lo siguiente
+Paso 1: Entramos en el archivo siguiente y cambiamos lo siguiente:
 
     sudo nano /etc/ssh/sshd_config
 
