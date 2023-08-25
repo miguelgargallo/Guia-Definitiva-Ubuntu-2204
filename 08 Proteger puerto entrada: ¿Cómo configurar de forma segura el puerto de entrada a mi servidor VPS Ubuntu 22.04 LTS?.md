@@ -16,6 +16,36 @@ Reiniciamos el servicio
 
     sudo service ssh restart
 
+Para que todo esto haga efecto, debemos por favor enable y arrancar el servicio `ufw`:
+
+    sudo ufw enable
+
+Seguid de: `y` y luego para ver las conexiones
+
+    sudo ufw status numbered
+
+¿Porqué te enseño esto del `numbered`? Básicamente podrás borrar super rapido o manejar los puertos de forma mas eficiente:
+
+    sudo ufw deny 1
+
+o
+
+    sudo ufw allow 1
+
+Por cierto, si abres un puerto para algo, haz esto primero: ve a esta web
+
+[Ports Guide de Miguel](https://www.speedguide.net/ports.php), está web es god tier level max, mira el puerto que quieres abrir si tiene alguna vulnerabilidad, y luego, sino hay nada raro:
+
+    sudo ufw allow XXX/tcp
+
+añadirmos tcp.
+
+```md
+El protocolo TCP (Transmission Control Protocol) es el encargado de proporcionar un servicio de comunicación punto a punto entre dos host. Este protocolo de cuarto nivel está orientado a conexión en la capa de transporte y funciona a través de la conexión mutua entre cliente y servidor.
+```
+
+
+
 ## Miguel Gargallo Atlas
 
 Miguel Gargallo Atlas es tu guía! aquí te indico por donde vas de la Guía Definitva Ubuntu 2204, tambien disponible a través del link [ubuntu.download](https://ubuntu.download), en la descripción encontrarás el link para descargar de forma segura Ubuntu desde la web oficial.
