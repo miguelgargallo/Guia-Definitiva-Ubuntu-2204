@@ -30,7 +30,7 @@ Seguid de: `y` y luego para ver las conexiones
 
 o
 
-    sudo ufw allow 1
+    sudo ufw allow 1/tcp
 
 Por cierto, si abres un puerto para algo, haz esto primero: ve a esta web
 
