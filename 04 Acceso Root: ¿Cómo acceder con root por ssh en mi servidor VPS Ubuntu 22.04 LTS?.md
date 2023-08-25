@@ -26,7 +26,7 @@ Paso 6:
 
     ssh root@123.123.123.123
 
-Paso 7: Crear un usuario: (opcional si lo necesitamos)
+Paso 7: Crear un usuario: (opcional1 si lo necesitamos) (Opcional2: Si no quieres abrir el acceso de root desde ssh, porque es inseguro, simplemente ejecuta el Paso 9 y vuelve a este punto después)
 
     sudo adduser NuevoUsuario
 
@@ -35,6 +35,12 @@ Sigues los pasos de crear usuarios para poner una contraseña
 Paso 8: Dar privilegios:
 
     usermod -aG sudo NuevoUsuario
+
+Paso 9: Acceder siempre a root desde un usuario
+
+    su
+
+(pones la contraseña y listo,`exit` para volver al otro usuario)
 
 
 ## Miguel Gargallo Atlas
