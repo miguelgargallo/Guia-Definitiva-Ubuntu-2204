@@ -21,7 +21,7 @@ Notas: Primera zona # debe quedar así:
     127.0.1.1 server.visita.teide server
     127.0.0.1 localhost
 
-Notas: Segunda zona # se debe añadir, no tocar lo que haya:
+Notas: Segunda zona # se debe añadir, no tocar lo que haya: `123.123.123.123` es la ip de tu servidor ¿si? eso era importante explicarlo:
 
     123.123.123.123 server.visita.teide server
 
