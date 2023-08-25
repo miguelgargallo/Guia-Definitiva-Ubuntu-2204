@@ -3,19 +3,19 @@
 
 Paso 1: Ejecutamos:
 
-    fallocate -l 8G /rammg
+    sudo fallocate -l 8G /rammg
 
 Después:
 
-    chmod 600 /rammg
+    sudo chmod 600 /rammg
 
 Finalmente:
 
-    mkswap /rammg  && sudo swapon /rammg
+    sudo mkswap /rammg  && sudo swapon /rammg
 
 Paso 2: Editamos con el editor nano:
 
-    nano /etc/fstab
+    sudo nano /etc/fstab
 
 Comando referenciado en la lección 99 Glosario, link en el pié de la página de esta lección.
 
@@ -28,15 +28,15 @@ Comando referenciado en la lección 99 Glosario, link en el pié de la página d
 
 PAso 5: Ejecutamos:
 
-    swapon --show
+    sudo swapon --show
 
 Liberamos memoria
 
-    free -h
+    sudo free -h
     
 Reiniciamos
 
-    reboot
+    sudo reboot
 
 En el documento 98 Tablas de ram: Encontraremos las equivalencias de memoria y ram.
 
