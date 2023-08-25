@@ -8,6 +8,13 @@ Paso 1B: Accedemos por ssh a través de un puerto determinado ejecutando por git
 
     ssh -p 22 usuario@123.123.123.123
 
+Trucazo: Sencillamente esto te cambiará la vida, se llama el comando `screen`, simplemente escribelo, dale a enter 2 veces, y estarás dentro de una pantalla dentro de la terminal!, sip, como oyes.
+
+```bash
+screen -ls para listar
+screen -x el nombre
+```
+
 
 ## Miguel Gargallo Atlas
 
