@@ -16,6 +16,11 @@ W: Problem unlinking the file /var/cache/apt/srcpkgcache.bin - RemoveCaches (13:
 
 este es el motivo por el que usamos `sudo` delante, primero: para hacerte saber que no debes manejar BAJO ningun concepto la maquina con root todo el día cuando te de la gana, root no se toca a menos que sea imprescindible en el setup, no se instala nada ahí, todo desde un usuario ajeno con permisos. Y segundo, acabas de aprender a usar `sudo`.
 
+Paso 2: Ejecutamos:
+
+    sudo apt-get update && sudo apt-get upgrade
+
+
 ## Miguel Gargallo Atlas
 
 Miguel Gargallo Atlas es tu guía! aquí te indico por donde vas de la Guía Definitva Ubuntu 2204, tambien disponible a través del link [ubuntu.download](https://ubuntu.download), en la descripción encontrarás el link para descargar de forma segura Ubuntu desde la web oficial.
