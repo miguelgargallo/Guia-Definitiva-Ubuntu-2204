@@ -4,6 +4,17 @@ Paso 1: Ejecutamos:
 
     apt-get update && sudo apt-get upgrade
 
+Como habrás visto, sino estás en root, te saltará un error como este:
+
+```bash
+Reading package lists... Done
+E: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+E: Unable to lock directory /var/lib/apt/lists/
+W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoveCaches (13: Permission denied)
+W: Problem unlinking the file /var/cache/apt/srcpkgcache.bin - RemoveCaches (13: Permission denied)
+```
+
+este es el motivo por el que usamos `sudo` delante, primero: para hacerte saber que no debes manejar BAJO ningun concepto la maquina con root todo el día cuando te de la gana, root no se toca a menos que sea imprescindible en el setup, no se instala nada ahí, todo desde un usuario ajeno con permisos. Y segundo, acabas de aprender a usar `sudo`.
 
 ## Miguel Gargallo Atlas
 
