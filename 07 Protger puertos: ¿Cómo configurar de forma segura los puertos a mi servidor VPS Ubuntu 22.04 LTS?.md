@@ -2,15 +2,15 @@
 
 Paso 1: Ejecutamos estos comandos repetidas veces
 
-    ufw allow http
+    sudo ufw allow http
 
 Este:
 
-    ufw allow https
+    sudo ufw allow https
 
 Y finalmente
 
-    ufw allow 25472
+    sudo ufw allow 25472
     
 Si lo que queremos es abrir un rango de puertos
 
