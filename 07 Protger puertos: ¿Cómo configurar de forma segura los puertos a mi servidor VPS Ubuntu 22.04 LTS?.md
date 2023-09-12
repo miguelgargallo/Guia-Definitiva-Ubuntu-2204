@@ -21,6 +21,10 @@ Ejecutamos el restart de servicio
     sudo service ssh restart
 
 
+Activamos ufw
+
+    sudo ufw enable
+
 ## Miguel Gargallo Atlas
 
 Miguel Gargallo Atlas es tu guía! aquí te indico por donde vas de la Guía Definitva Ubuntu 2204, tambien disponible a través del link [ubuntu.download](https://ubuntu.download), en la descripción encontrarás el link para descargar de forma segura Ubuntu desde la web oficial.
