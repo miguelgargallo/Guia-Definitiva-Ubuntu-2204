@@ -14,6 +14,8 @@ Para salir:
 
     q
 
+Extra: tre, tre te permite ver archivos de forma arbol (OPCION y no relacionado con bottom)
+
 
 ## Miguel Gargallo Atlas
 
