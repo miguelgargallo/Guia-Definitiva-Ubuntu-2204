@@ -6,15 +6,15 @@ Instalamos Docker
 
 Comprobamos que Docker está corriendo y le damos acceso por el puerto 80 a través de NGINX con este comando:
 
-    docker run -itd -p 80:80 nginx
+    sudo docker run -itd -p 80:80 nginx
 
 Crearemos un volument denominado portainer_disk
 
-    docker volume create portainer_disk
+    sudo docker volume create portainer_disk
 
 Intalaremos Docker Portainer
 
-    docker run -d -p 9443:9443 -p 8000:8000 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
+    sudo docker run -d -p 9443:9443 -p 8000:8000 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:latest
     
 Este episodio es gracias a Network Chuck, Chuck es un profesional del sector de Network que crea contenido de calidad en YouTube, a través de sus videos he podido realizar este episodio.
 
