@@ -1,5 +1,7 @@
 # 13 Instalar bottom con rust de forma segura en tu vps
 
+## Esto es opcional, es un sustituto de htop pero mejor, en rust y mas efectivo de ver y entender para gente que comienza y expertos
+
 Instalamos con Cargo:
 
     cargo install bottom
