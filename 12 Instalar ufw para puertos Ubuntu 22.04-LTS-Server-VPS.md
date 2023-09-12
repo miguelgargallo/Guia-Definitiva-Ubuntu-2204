@@ -1,5 +1,7 @@
 # 12 Instalar ufw para puertos Ubuntu 22.04-LTS Server VPS
 
+## Esto no hace falta si habéis seguido la guía desde el inicio
+
 Ejecutaremos la instalación por si no lo tenemos instalado y no nos han salido bien los pasos de los puertos
 
     sudo apt install ufw
