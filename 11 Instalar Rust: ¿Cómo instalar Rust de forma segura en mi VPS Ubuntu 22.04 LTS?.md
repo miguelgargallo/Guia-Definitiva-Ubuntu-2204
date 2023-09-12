@@ -1,4 +1,4 @@
-# 11 Rust: ¿Cómo instalar Rust de forma segura en mi VPS Ubuntu 22.04 LTS?
+# 11 Rust & SurrealDB: ¿Cómo instalar Rust de forma segura en mi VPS Ubuntu 22.04 LTS?
 
 Paso 1: Actualizamos nuestro servidor
 
@@ -31,6 +31,12 @@ Paso 6: Pedimos la version:
 Finalmente, para la fecha en la que estamos este es el resultado:
 
     rustc 1.72.0 (5680fa18f 2023-08-23)
+
+Opcional: Instala SurrealDB
+
+    curl -sSf https://install.surrealdb.com | sh
+
+For mor info visit [Official Source](https://surrealdb.com/install)
 
 ## Miguel Gargallo Atlas
 
