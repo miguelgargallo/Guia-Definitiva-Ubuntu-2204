@@ -25,6 +25,12 @@ Activamos ufw
 
     sudo ufw enable
 
+Si por algun casual te equivocas, y quieres resetear todo ufw
+
+    sudo ufw reset
+
+Recuerda abrir puertos /tcp, es importante controlar la entrada y la salida
+
 ## Miguel Gargallo Atlas
 
 Miguel Gargallo Atlas es tu guía! aquí te indico por donde vas de la Guía Definitva Ubuntu 2204, tambien disponible a través del link [ubuntu.download](https://ubuntu.download), en la descripción encontrarás el link para descargar de forma segura Ubuntu desde la web oficial.
