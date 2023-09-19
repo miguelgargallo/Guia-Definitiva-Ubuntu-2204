@@ -25,7 +25,7 @@ Activamos ufw
 
     sudo ufw enable
 
-Si por algun casual te equivocas, y quieres resetear todo ufw
+Si por algun casual te equivocas, y quieres resetear todo ufw (opcional leer antes de ejecutar)
 
     sudo ufw reset
 
