@@ -57,20 +57,23 @@ Es posible que haya un error al guardar, esto es porque el directorio "nvim" no 
 
 Para ello creamos el directorio primero y repetimos el paso 'Y añadimso este paquete de plugins':
 
-  mkdir nvim
+    mkdir nvim
 
   
 Después aplicamos:
 
-```nvim
-:
-```
+    nvim a.md
 
-Seguid de 
+Y dentro hacemos:
 
 ```neovim
-PlugInstall
+:PlugInstall
 ```
+
+Quedaría así:
+
+![pluginstall de neovim](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/assets/5947268/0a39a20b-00a7-409a-b41e-3acc61617bb1)
+
 
 Te quedará algo así
 
