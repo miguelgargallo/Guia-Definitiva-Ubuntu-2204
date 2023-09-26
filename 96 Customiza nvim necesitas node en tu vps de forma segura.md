@@ -51,7 +51,16 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isT
 map <C-n> :NERDTreeToggle<CR>
 ```
 
-Ahora picamos:
+Es posible que haya un error al guardar, esto es porque el directorio "nvim" no está creado como tal:
+
+![captura de pantalla de terminal acerca del directorio nvim donde no se puede apreciar porque no esta creado](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/assets/5947268/d5d38d1b-e947-40f3-861b-88a1e69980a9)
+
+Para ello creamos el directorio primero y repetimos el paso 'Y añadimso este paquete de plugins':
+
+  mkdir nvim
+
+  
+Después aplicamos:
 
 ```nvim
 :
