@@ -74,7 +74,6 @@ Quedaría así:
 
 ![pluginstall de neovim](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/assets/5947268/0a39a20b-00a7-409a-b41e-3acc61617bb1)
 
-
 Te quedará algo así
 
 ```neovim
@@ -82,6 +81,13 @@ Te quedará algo así
 ```
 
 Le das a enter y esperas
+
+![Instalando Plug Install](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/assets/5947268/736bc507-ce3b-4738-a82a-ca0953c2cc10)
+
+
+Y finalmente:
+
+![Finalizada la instalacion de pluginstall](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/assets/5947268/62cc92b7-ad22-4a90-a388-96bab64661dd)
 
 
 ## Miguel Gargallo Atlas
