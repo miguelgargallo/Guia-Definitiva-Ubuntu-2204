@@ -6,6 +6,14 @@ Ejecutaremos la instalación por si no lo tenemos instalado y no nos han salido 
 
     sudo apt install ufw
 
+Si te has dado cuenta de que tenías IPTables y te da error al hacer:
+
+    sudo ufw enable
+
+Entonces resetea ufw y deberás de usar IPTables, próximamente en una guía saldrá
+
+    sudo ufw reset
+
 
 ## Miguel Gargallo Atlas
 
