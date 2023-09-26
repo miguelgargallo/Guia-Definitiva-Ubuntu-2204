@@ -57,7 +57,7 @@ Es posible que haya un error al guardar, esto es porque el directorio "nvim" no 
 
 Para ello creamos el directorio primero y repetimos el paso 'Y añadimso este paquete de plugins':
 
-    mkdir nvim
+    mkdir ~/.config/nvim
 
   
 Después aplicamos:
