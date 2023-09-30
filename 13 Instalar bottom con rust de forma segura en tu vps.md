@@ -17,7 +17,7 @@ Para salir:
 Extra: tre, tre te permite ver archivos de forma arbol (OPCION y no relacionado con bottom)
 
 ```
-    cargo install tre
+cargo install tre
 ```
 
 ## Miguel Gargallo Atlas
