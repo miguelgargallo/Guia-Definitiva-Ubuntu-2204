@@ -2,6 +2,10 @@
 
 IMPORTANTE: Si al terminar esta clase, sales del servidor y no reinicias, no te preocupes, ve al panel de AWS o del serivicio que tengas contratado, y reinicia de ahí, no te asustes, no has perdido nada.
 
+Paso 0: Haz una copia de seguridad
+
+    sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
+
 Paso 1: Entramos en el archivo siguiente y cambiamos lo siguiente:
 
     sudo nano /etc/ssh/sshd_config
@@ -18,17 +22,25 @@ Reiniciamos el servicio
 
     sudo service ssh restart
 
-Para que todo esto haga efecto, debemos por favor enable y arrancar el servicio `ufw`:
+Si lo que queremos es solo admitir a 1 usaurio y no permitir el login desde root
 
-    sudo ufw enable
+    sudo nano /etc/ssh/sshd_config
 
-Seguid de: `y` y luego para ver las conexiones
+Copia esto con `ctrl` + `c`, si estas en Mac, es `cmd` + `c`
 
-    sudo ufw status numbered
+    Authentication
 
-Reiniciamos el servicio
+Y debajo pegamos:
 
-    sudo service ssh restart
+    AllowUsers tuusuario
+
+Si quieres mas de uno, solo pon espacio, y ya estaría:
+
+    AllowUsers tuusuario tumadre
+
+*tuusuario recuerda cambiar esto por el usuario con el que quieras entrar, esto va muy bien para cuando quieres prohibir el acceso de ssh a usuarios como `admin` donde por defecto `root` ya está bloqueado, pero no `admin`.
+
+Y vamos a: `ctrl` + `w` de este modo, click derecho a la palabra consola si estas en Mac, es `cmd` + `w`
 
 Ahora, abrimos otra terminal, y ejecutamos el `ssh -p 25472 user@123.123.123.123` para ver si deja entrar por ahí, porque sino te deja, no te austes, revisa los pasos hasta ahora, si cierras esa ventana, podrías no volver a acceder, para ello, en la ventana donde te ha fallado el accoeso ejecuta: `ssh user@123.123.123.123` si te pregunta por la contraseña, significa que el puerto `22` aún está operativo y que posiblemente no has activado bien el `ufw`, revisa todo con calma.
 
