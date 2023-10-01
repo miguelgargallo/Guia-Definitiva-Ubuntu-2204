@@ -2,6 +2,8 @@
 
 IMPORTANTE: Si al terminar esta clase, sales del servidor y no reinicias, no te preocupes, ve al panel de AWS o del serivicio que tengas contratado, y reinicia de ahí, no te asustes, no has perdido nada.
 
+Truco de oro: Cuando hayas terminado: con otra consola, intenta entrar, porque sino puedes hacerlo desde el usuario que quieres... y sales de las 2 terminales, deberás de resetear todo el p* setup y estaras f*cked. Este truco es de oro.
+
 Paso 0: Haz una copia de seguridad
 
     sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
@@ -34,13 +36,19 @@ Y debajo pegamos:
 
     AllowUsers tuusuario
 
+*tuusuario recuerda cambiar esto por el usuario con el que quieras entrar, esto va muy bien para cuando quieres prohibir el acceso de ssh a usuarios como `admin` donde por defecto `root` ya está bloqueado, pero no `admin`.
+
+Y vamos a: `ctrl` + `w` de este modo, click derecho a la palabra consola si estas en Mac, es `cmd` + `w`
+
 Si quieres mas de uno, solo pon espacio, y ya estaría:
 
     AllowUsers tuusuario tumadre
 
-*tuusuario recuerda cambiar esto por el usuario con el que quieras entrar, esto va muy bien para cuando quieres prohibir el acceso de ssh a usuarios como `admin` donde por defecto `root` ya está bloqueado, pero no `admin`.
+Y reiniciamos el servicio
 
-Y vamos a: `ctrl` + `w` de este modo, click derecho a la palabra consola si estas en Mac, es `cmd` + `w`
+    sudo service ssh restart
+
+Ahora haz el truco de oro, pilla otra consola e intenta entrar
 
 Ahora, abrimos otra terminal, y ejecutamos el `ssh -p 25472 user@123.123.123.123` para ver si deja entrar por ahí, porque sino te deja, no te austes, revisa los pasos hasta ahora, si cierras esa ventana, podrías no volver a acceder, para ello, en la ventana donde te ha fallado el accoeso ejecuta: `ssh user@123.123.123.123` si te pregunta por la contraseña, significa que el puerto `22` aún está operativo y que posiblemente no has activado bien el `ufw`, revisa todo con calma.
 
@@ -65,6 +73,8 @@ El protocolo TCP (Transmission Control Protocol) es el encargado de proporcionar
 ```
 
 IMPORTANTE: Si sales y no reinicias, no te preocupes, ve al panel de AWS o del serivicio que tengas contratado, y reinicia de ahí, no te asustes, no has perdido nada.
+
+Truco de oro: Cuando hayas terminado: con otra consola, intenta entrar, porque sino puedes hacerlo desde el usuario que quieres... y sales de las 2 terminales, deberás de resetear todo el p* setup y estaras f*cked. Este truco es de oro.
 
 
 ## Miguel Gargallo Atlas
