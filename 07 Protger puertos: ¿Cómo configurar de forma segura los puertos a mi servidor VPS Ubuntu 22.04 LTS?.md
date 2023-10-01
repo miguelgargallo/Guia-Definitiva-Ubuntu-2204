@@ -20,10 +20,13 @@ Ejecutamos el restart de servicio
 
     sudo service ssh restart
 
-
 Activamos ufw
 
     sudo ufw enable
+
+Para ver todos los puertos que hemos configurado
+
+    sudo ufw status numbered
 
 Si por algun casual te equivocas, y quieres resetear todo ufw (opcional leer antes de ejecutar)
 
