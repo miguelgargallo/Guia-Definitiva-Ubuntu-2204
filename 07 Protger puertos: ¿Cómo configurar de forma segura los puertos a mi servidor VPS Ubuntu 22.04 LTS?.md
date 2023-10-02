@@ -6,15 +6,23 @@ Paso 0: Abran el ssh que sino luego no podréis entrar
 
 Paso 1: Ejecutamos estos comandos repetidas veces
 
-    sudo ufw allow http
+    sudo ufw allow 80/tcp
 
 Este:
 
-    sudo ufw allow https
+    sudo ufw allow 443/tcp
+
+Este otro:
+
+    sudo ufw allow 3000/tcp
+
+Y este:
+
+    sudo ufw allow 8000/tcp
 
 Y finalmente
 
-    sudo ufw allow 25472
+    sudo ufw allow 25472/tcp
     
 Si lo que queremos es abrir un rango de puertos
 
