@@ -1,5 +1,9 @@
 # 07 Puertos: ¿Cómo configurar de forma segura los puertos a mi servidor VPS Ubuntu 22.04 LTS?
 
+Paso 0: Abran el ssh que sino luego no podréis entrar
+
+    sudo ufw allow ssh
+
 Paso 1: Ejecutamos estos comandos repetidas veces
 
     sudo ufw allow http
