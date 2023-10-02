@@ -27,14 +27,14 @@ Y finalmente
 Si lo que queremos es abrir un rango de puertos
 
     sudo ufw allow 5000:6000/tcp
-    
-Ejecutamos el restart de servicio
-
-    sudo service ssh restart
 
 Activamos ufw
 
     sudo ufw enable
+
+Ejecutamos el restart de servicio
+
+    sudo service ssh restart
 
 Para ver todos los puertos que hemos configurado
 
