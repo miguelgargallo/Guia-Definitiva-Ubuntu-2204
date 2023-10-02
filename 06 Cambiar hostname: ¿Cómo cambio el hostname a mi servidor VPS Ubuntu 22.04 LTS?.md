@@ -25,6 +25,21 @@ Notas: Segunda zona # se debe añadir, no tocar lo que haya: `123.123.123.123` e
 
     123.123.123.123 server.visita.teide server
 
+Os dejo una plantilla que es posible que lo agradezcáis en el futuro, porque la necesito en mi día a día y os puede resultar útil:
+
+```
+# Los hosts
+127.0.1.1       subdomain.domain.extension    subdomain
+127.0.0.1       localhost
+# Lineas deseadas para IPv6 y sus hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+123.123.123.123       subdomain.domain.extension    subdomain
+```
+
 
 ## Miguel Gargallo Atlas
 
