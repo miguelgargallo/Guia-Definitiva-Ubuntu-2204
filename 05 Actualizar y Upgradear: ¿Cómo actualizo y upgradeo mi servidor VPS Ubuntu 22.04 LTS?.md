@@ -2,7 +2,7 @@
 
 Paso 1: Ejecutamos:
 
-    apt-get update && sudo apt-get upgrade
+    apt-get update && apt-get upgrade
     
 Extra: Los net-tools (optional)
 
