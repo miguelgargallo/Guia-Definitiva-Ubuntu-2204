@@ -14,7 +14,7 @@ Exactamente click derecho copiar link aquí:
 
 Y ejecutamos (ahora estamos en Domingo 2 de Octubre del 2022, y este es el link: https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh)
 
-    cd /tmp && curl https://repo.anaconda.com/archive/Anaconda3-2023.07-2-Linux-x86_64.sh --output anaconda.sh
+    cd /tmp && curl https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Linux-x86_64.sh --output anaconda.sh
 
 Ejecutamos para comprobar el Hash con la página web oficial en internet:
 
