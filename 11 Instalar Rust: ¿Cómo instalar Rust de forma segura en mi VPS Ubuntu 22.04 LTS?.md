@@ -30,7 +30,7 @@ Paso 6: Pedimos la version:
 
 Finalmente, para la fecha en la que estamos este es el resultado:
 
-    rustc 1.74.1 (a28077b28 2023-12-04)
+    rustc 1.75.0 (82e1608df 2023-12-21)
 
 Opcional: Instala SurrealDB
 
