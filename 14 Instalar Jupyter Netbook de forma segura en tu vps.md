@@ -24,15 +24,15 @@ Y comenzamos la instalación:
 
     bash anaconda.sh
 
-Decimos
+Presionamos `ENTER`
+
+Le damos al `q` y luego
 
     yes
 
-Le damos al enter todo el rato y le decimos:
+Presionamos `ENTER`
 
-    yes
-
-Ejecutamos:
+Y luego cuando termine, ejecutamos:
 
     source ~/.bashrc
 
