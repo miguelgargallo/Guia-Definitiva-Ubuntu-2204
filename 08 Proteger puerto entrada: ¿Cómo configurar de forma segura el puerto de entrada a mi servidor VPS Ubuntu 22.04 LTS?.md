@@ -78,7 +78,7 @@ Truco de oro: Cuando hayas terminado: con otra consola, intenta entrar, porque s
 
 *Por cierto:
 
-Quita el puerto 22 con
+Quita el puerto 22 con el valor de X
 
 ```bash
 sudo ufw delete X
