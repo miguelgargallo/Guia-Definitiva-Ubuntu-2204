@@ -76,6 +76,30 @@ IMPORTANTE: Si sales y no reinicias, no te preocupes, ve al panel de AWS o del s
 
 Truco de oro: Cuando hayas terminado: con otra consola, intenta entrar, porque sino puedes hacerlo desde el usuario que quieres... y sales de las 2 terminales, deberás de resetear todo el p* setup y estaras f*cked. Este truco es de oro.
 
+*Por cierto:
+
+Quita el puerto 22 con
+
+```bash
+sudo ufw delete X
+```
+
+Le das a `Y` y Ahora haces numbered
+
+```
+sudo ufw status numbered
+```
+
+y quitar el otro (v6) restante
+
+```bash
+sudo ufw delete X
+```
+
+Le das a `Y` y listo.
+
+Sin salir, abres otra consola y si puedes entrar y todo bien, has terminado.
+
 
 ## Miguel Gargallo Atlas
 
