@@ -1,4 +1,4 @@
-# 08 Proteger puerto entrada: ¿Cómo configurar de forma segura el puerto de entrada a mi servidor VPS Ubuntu 22.04 LTS?
+ # 08 Proteger puerto entrada: ¿Cómo configurar de forma segura el puerto de entrada a mi servidor VPS Ubuntu 22.04 LTS?
 
 IMPORTANTE: Si al terminar esta clase, sales del servidor y no reinicias, no te preocupes, ve al panel de AWS o del serivicio que tengas contratado, y reinicia de ahí, no te asustes, no has perdido nada.
 
@@ -23,6 +23,14 @@ por
 Reiniciamos el servicio
 
     sudo service ssh restart
+
+A partir de este momento y sin cerrar la tarminal, abre otra terminal, sí leíste bien, no cierres nada, simplemente abre terminal nueva e intenta acceder con:
+
+    ssh -p 25472 tuuusario@123.123.123.123
+
+Si todo está bien, el puerto nuevo será de entrada.
+
+Continuemos
 
 Si lo que queremos es solo admitir a 1 usaurio y no permitir el login desde root
 
