@@ -1,5 +1,7 @@
  # 08 Proteger puerto entrada: ¿Cómo configurar de forma segura el puerto de entrada a mi servidor VPS Ubuntu 22.04 LTS?
 
+Esta lección debe ser leida hasta el final
+
 IMPORTANTE: Si al terminar esta clase, sales del servidor y no reinicias, no te preocupes, ve al panel de AWS o del serivicio que tengas contratado, y reinicia de ahí, no te asustes, no has perdido nada.
 
 Truco de oro: Cuando hayas terminado: con otra consola, intenta entrar, porque sino puedes hacerlo desde el usuario que quieres... y sales de las 2 terminales, deberás de resetear todo el p* setup y estaras f*cked. Este truco es de oro.
@@ -30,7 +32,7 @@ A partir de este momento y sin cerrar la tarminal, abre otra terminal, sí leís
 
 Si todo está bien, el puerto nuevo será de entrada.
 
-Continuemos
+Esta lección debe ser leida hasta el final
 
 Si lo que queremos es solo admitir a 1 usaurio y no permitir el login desde root
 
