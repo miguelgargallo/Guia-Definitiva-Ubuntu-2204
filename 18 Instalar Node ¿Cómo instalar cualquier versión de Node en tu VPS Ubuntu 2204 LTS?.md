@@ -18,11 +18,11 @@ Y le decimos que la muestre:
 
 Instalamos la deseada:
 
-    nvm install v18.18.0
+    nvm install v20.11.1
 
 Y le decimos que la use:
 
-    nvm use v18.18.0
+    nvm use v20.11.1
 
 
 ## Miguel Gargallo Atlas
