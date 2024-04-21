@@ -60,6 +60,67 @@ Instala Python
 
     sudo apt install python-is-python3
 
+Ahora, para instalar el notebook
+
+```sh
+cd ~/environments
+```
+
+Si da error
+
+```sh
+mkdir ~/environments
+```
+
+seguido de
+
+```sh
+cd ~/environments
+```
+
+y de
+
+```
+. my_env/bin/activate
+```
+
+Instalamos y upgradreamos el pip
+
+```sh
+pip install --upgrade pip
+```
+
+e instalamos el jupyter
+
+```sh
+pip install jupyter
+```
+
+para arrancarlo:
+
+```sh
+jupyter notebook
+```
+
+y vamos a [http://127.0.0.1:8888/](http://127.0.0.1:8888/)
+
+Si por algun motivo no sabemos la contrasela, ejecutamos `CTRL + C` en la propia consola donde se ejecuta, y ponemos
+
+
+```sh
+jupyter notebook password
+```
+
+ponemos una contraseña seguira
+
+y volvemos a arrancar el jupyter
+
+```sh
+jupyter notebook
+```
+
+y vamos a [http://127.0.0.1:8888/](http://127.0.0.1:8888/)
+
 
 ## Miguel Gargallo Atlas
 
