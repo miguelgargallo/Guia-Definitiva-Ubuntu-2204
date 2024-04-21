@@ -14,7 +14,23 @@ Exactamente click derecho copiar link aquí:
 
 Y ejecutamos (ahora estamos en Domingo 2 de Octubre del 2022, y este es el link: https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh)
 
-    cd /tmp && curl https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Linux-x86_64.sh --output anaconda.sh
+    cd /tmp && curl https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Linux-x86_64.sh --output anaconda.sh
+
+
+Por razones de seguridad deposito los MD5
+
+```sh
+Anaconda3-2024.02-1-Windows-x86_64.exe	904.4M	2024-02-26 14:50:21	087c633e355bc709222ad9e0dbad77abeed84f7e06dbdbecae84ba8b3660429e
+Anaconda3-2024.02-1-MacOSX-x86_64.sh	731.2M	2024-02-26 14:50:21	944aee9b90f7d8a2a997d0337cb37219757f22e76c10de38c7c68191c6b5b226
+Anaconda3-2024.02-1-MacOSX-x86_64.pkg	728.7M	2024-02-26 14:50:21	56ed87ad85b1203fad1dc7c5c4e6ac2034f3a69d676ea83f78bd1b7f10ca6a8a
+Anaconda3-2024.02-1-MacOSX-arm64.sh	700.0M	2024-02-26 14:50:21	14a1c80af18c2c2e743e63cdb41228cd554a3fdb250563b6978348c80b6860f6
+Anaconda3-2024.02-1-MacOSX-arm64.pkg	697.4M	2024-02-26 14:50:21	c22f864ceb962c89b5dbb9170c64acc5ee02dd96af988b0ecc3bf2f880ce8928
+Anaconda3-2024.02-1-Linux-x86_64.sh	997.2M	2024-02-26 14:50:21	c536ddb7b4ba738bddbd4e581b29308cb332fa12ae3fa2cd66814bd735dff231
+Anaconda3-2024.02-1-Linux-s390x.sh	391.8M	2024-02-26 14:50:21	3e2e8b17ea9a5caafd448f52e01435998b2e1ce102040a924d5bd6e05a1d735b
+Anaconda3-2024.02-1-Linux-aarch64.sh	798.5M	2024-02-26 14:50:21	28c5bed6fba84f418516e41640c7937514aabd55e929a8f66937c737303c7bba
+```
+
+Fuente: [repo.anaconda.com/archive](https://repo.anaconda.com/archive/)
 
 Ejecutamos para comprobar el Hash con la página web oficial en internet:
 
