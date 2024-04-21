@@ -12,7 +12,7 @@ Exactamente click derecho copiar link aquí:
 
 ![anaconda distribution link for ubuntu and create curl command](https://user-images.githubusercontent.com/5947268/193467631-9d94ea0c-3828-4a12-a612-544578276f66.png)
 
-Y ejecutamos (ahora estamos en Domingo 2 de Octubre del 2022, y este es el link: https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh)
+Y ejecutamos (ahora estamos en Domingo 2 de Octubre del 2022, y este es el link: https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Linux-x86_64.sh)
 
     cd /tmp && curl https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Linux-x86_64.sh --output anaconda.sh
 
