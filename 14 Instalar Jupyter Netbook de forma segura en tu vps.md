@@ -121,6 +121,33 @@ jupyter notebook
 
 y vamos a [http://127.0.0.1:8888/](http://127.0.0.1:8888/)
 
+[PylarAI](https://pylar.org) Tips:
+Si diera error en el my env
+
+```sh
+cd ~/environments
+No such file or directory
+mkdir ~/environments
+cd ~/environments
+~/environments$ . my_env/bin/activate
+No such file or directory
+~/environments$
+```
+
+Entonces
+
+PylarAI dice:
+
+Of course, as an expert in the field, it appears that the virtual environment `my_env` does not exist within your `environments` directory, which is why you're encountering an error when trying to activate it. You'll need to first create the virtual environment. Here's how to do it:
+
+```bash
+# Create a new virtual environment named my_env
+python -m venv my_env
+
+# Activate the virtual environment
+source my_env/bin/activate
+```
+
 
 ## Miguel Gargallo Atlas
 
