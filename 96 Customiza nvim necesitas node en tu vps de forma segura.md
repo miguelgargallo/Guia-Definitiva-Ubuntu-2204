@@ -20,7 +20,7 @@ Ejecutamos
 nvim ~/.config/nvim/init.vim
 ```
 
-Y añadimso este paquete de plugins
+Y añadimso este paquete de plugins, (si da error al guardar no te preocupes, sigue la guía)
 
 ```vim
 " Specify a directory for plugins
@@ -51,7 +51,8 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isT
 map <C-n> :NERDTreeToggle<CR>
 ```
 
-Es posible que haya un error al guardar, esto es porque el directorio "nvim" no está creado como tal:
+> [!NOTE]  
+> Es posible que haya un error al guardar, esto es porque el directorio "nvim" no está creado como tal:.
 
 ![captura de pantalla de terminal acerca del directorio nvim donde no se puede apreciar porque no esta creado](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/assets/5947268/d5d38d1b-e947-40f3-861b-88a1e69980a9)
 
