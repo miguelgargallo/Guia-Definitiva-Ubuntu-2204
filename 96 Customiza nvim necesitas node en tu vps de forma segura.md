@@ -110,6 +110,21 @@ Y dentro hacemos:
 :PlugInstall
 ```
 
+Si te diera error, es porque igual no has instalado vim-plug en tu Unix, Linux
+
+```sh
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+```
+
+O windows:
+
+```powershell
+iwr -useb https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim |`
+    ni "$(@($env:XDG_DATA_HOME, $env:LOCALAPPDATA)[$null -eq $env:XDG_DATA_HOME])/nvim-data/site/autoload/plug.vim" -Force
+```
+
+
 Quedaría así:
 
 ![pluginstall de neovim](https://github.com/miguelgargallo/Guia-Definitiva-Ubuntu-2204/assets/5947268/0a39a20b-00a7-409a-b41e-3acc61617bb1)
