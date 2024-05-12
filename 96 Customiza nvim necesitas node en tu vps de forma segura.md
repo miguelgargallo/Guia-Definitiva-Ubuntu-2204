@@ -60,7 +60,14 @@ Para ello creamos el directorio primero y repetimos el paso 'Y añadimso este pa
 
     mkdir ~/.config/nvim
 
-  
+
+Nos aseguramos que de que se haya creado el archivo de texto y pegamos el contenido de antes:
+
+```bash
+nvim ~/.config/nvim/init.vim
+```
+
+
 Después aplicamos:
 
     nvim a.md
