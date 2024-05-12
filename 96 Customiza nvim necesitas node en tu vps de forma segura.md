@@ -68,6 +68,38 @@ nvim ~/.config/nvim/init.vim
 ```
 
 
+Y añadimso este paquete de plugins
+
+```vim
+" Specify a directory for plugins
+call plug#begin('~/.config/nvim/plugged')
+
+" Add the plugins you want to use here
+Plug 'preservim/nerdtree' " File explorer
+Plug 'jiangmiao/auto-pairs' " Auto pair brackets and quotes
+Plug 'neoclide/coc.nvim', {'branch': 'release'} " Autocomplete
+Plug 'morhetz/gruvbox' " Color scheme
+
+" Initialize the plugin system
+call plug#end()
+
+" Enable line numbers
+set number
+
+" Set a nice colorscheme
+colorscheme gruvbox
+
+" Enable the NERDTree automatically when vim starts up
+autocmd vimenter * NERDTree
+
+" Automatically close NERDTree when a file is opened
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+
+" Map the <C-n> key to open and close the NERDTree
+map <C-n> :NERDTreeToggle<CR>
+```
+
+
 Después aplicamos:
 
     nvim a.md
